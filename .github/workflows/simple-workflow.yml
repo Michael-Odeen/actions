@@ -23,7 +23,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Test
+      - name: Echo-Test
         run: |
           echo Michael
           echo Odeen
